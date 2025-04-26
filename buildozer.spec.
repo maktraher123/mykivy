@@ -1,0 +1,11 @@
+[app]
+title = MyKivyApp
+package.name = mykivyapp
+package.domain = org.myapp
+version = 0.1
+source.include_exts = py,png,jpg,kv,atlas
+entrypoint = main.py
+
+[buildozer]
+log_level = 2
+warn = 1
